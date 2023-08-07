@@ -1,0 +1,124 @@
+* {
+  margin: 0;
+}
+
+nav {
+  margin: 20px;
+  margin-top: 15px;
+  display: flex;
+  justify-content: right;
+}
+
+a {
+  margin: 5px 10px;
+  text-decoration: none;
+  color: black;
+}
+
+.googleApps-btn {
+  background-color: transparent;
+  border: none;
+  margin-left: 5px;
+  cursor: pointer;
+}
+
+.googleApps-img {
+  width: 25px;
+}
+
+.gmail-img {
+  width: 35px;
+  margin-left: 15px;
+}
+
+.google-logo {
+  margin-left: 500px;
+  width: 300px;
+}
+
+.search-container {
+  position: relative;
+}
+
+.search-bar {
+  margin-top: 10px;
+  margin-left: 350px;
+  width: 550px;
+  height: 40px;
+  border-radius: 20px;
+  border: 1px solid #d3d3d3;
+  padding-left: 50px;
+  font-size: 25px;
+  font-weight: normal;
+}
+
+.search-icon {
+  position: absolute;
+  width: 20px;
+  left: 365px;
+  top: 22px;
+}
+
+.google-mic {
+  position: absolute;
+  width: 35px;
+  left: 870px;
+  top: 15px;
+}
+
+.google-lens {
+  position: absolute;
+  width: 35px;
+  left: 910px;
+  top: 15px;
+}
+
+.search-btn {
+  margin-left: 510px;
+  margin-top: 25px;
+}
+
+.search-btn-first {
+  width: 140px;
+  padding: 10px;
+  border: none;
+  cursor: pointer;
+}
+
+.search-btn-second {
+  width: 140px;
+  padding: 10px;
+  margin-left: 10px;
+  border: none;
+  cursor: pointer;
+}
+
+.google-languages {
+  margin-left: 550px;
+  margin-top: 30px;
+}
+
+.location {
+  margin-top: 150px;
+  padding-left: 25px;
+  padding-top: 25px;
+  padding-bottom: 10px;
+  background-color: #f3f1f1;
+  height: 30px;
+}
+
+.footer-links {
+  background-color: #f3f1f1;
+  height: 40px;
+  padding-top: 15px;
+}
+
+.left-links {
+  display: inline-block;
+  margin-left: 20px;
+}
+
+.right-links {
+  display: inline-block;
+  margin-left: 650px;
+}
